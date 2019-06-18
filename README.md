@@ -7,7 +7,7 @@ To run the program and see the agent in action, simply run the .exe file inside 
 Huge credit to kenney for providing free game assets for anyone to use, see the link below:
 https://www.kenney.nl/assets
 
-<img src="Training_figures/Axis_explanation.jpg" width="400" height="260"><img src="Example_Images/resNet_detection.png" width="400" height="260">
+<img src="Training_figures/Axis_explanation.jpg" width="600" height="400">
 
 # TODO:
 1. Upload full project folder with source code
