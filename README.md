@@ -4,7 +4,7 @@ The project does not contain code or any model files from traning sessions in te
 given from Unity. The program is windows native as of writing and I might make builds for MAC OSX or linux if requested.</br>
 To run the program and see the agent in action, simply run the .exe file inside /MachineLearningGame subfolder. 
 
-Huge credit to kenney for providing free game assets for anyone to use, see the link below:
+Huge credit to kenney for providing free game assets for anyone to use, see the link:
 https://www.kenney.nl/assets
 
 <img src="Training_figures/Axis_explanation.jpg" width="600" height="400">
